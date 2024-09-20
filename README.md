@@ -1,3 +1,6 @@
+## Matlab and various (free) plugins
+
+This integrates Matlab 2023a + EEGLAB + SPM12 + Petpve12 + GIFT + BCT + BrainNET + GRETNA + SUIT in the PHI platform. 
 
 ## Acknowledgement
 
